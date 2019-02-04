@@ -1,6 +1,10 @@
 # Collaboration and Competition
 Project #3 for Udacity Deep Reinforcement Learning course.
 
+<video src="video.mp4" width="640" height="348" controls preload>
+  <source src="tennis.mp4" type="video/mp4">
+</video>
+
 ## Project Details
 
 This project uses the Unity [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment.
