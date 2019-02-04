@@ -1,11 +1,7 @@
 # Collaboration and Competition
 Project #3 for Udacity Deep Reinforcement Learning course.
 
-<div>
-  <video src="video.mp4" width="640" height="348" controls preload>
-    <source src="tennis.mp4" type="video/mp4">
-  </video>
-</div>
+<video src="tennis.mp4" width="640" height="348" controls preload></video>
 
 ## Project Details
 
